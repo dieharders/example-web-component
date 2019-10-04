@@ -5,6 +5,7 @@ This project includes a very simple html page that loads all js logic from one f
 ## Example Web Component
 
 This is intended to be a reference for constructing your own custom web components.
+![Preview](https://github.com/dieharders/example-web-component/blob/master/preview.png)
 
 ## Get Creative
 
